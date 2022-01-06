@@ -4,4 +4,4 @@ This course is about designing, analyzing, and comparing data structures. It cov
 
 Compared with its regular version CSC263, greater emphasis are placed on proofs, theoretical analysis, and creative problem-solving. In addition, it runs at a faster pace, in greater depth and with more rigour, and with more challenging assignments.
 
-It is definitely the hardest course I have ever taken, but it felt rewarding after complete every assignment. Thank you Prof. Ellen!
+It is definitely the hardest course I have ever taken, but it felt rewarding after completingevery assignment. Thank you Prof. Ellen!
